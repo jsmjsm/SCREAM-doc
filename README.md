@@ -28,4 +28,4 @@
 
 - [Subgraph (GraphQL)](resources/Subgraph.md)
 
-- [价格预言机](/resources/Price-Oracle.md)
+- [价格预言机](/resources/Oracle.md)
